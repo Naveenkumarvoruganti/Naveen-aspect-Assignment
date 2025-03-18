@@ -1,0 +1,7 @@
+/Users/naveenkumar/MyAspNetApp/bin/Release/net8.0/publish/MyAspNetApp
+/Users/naveenkumar/MyAspNetApp/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/naveenkumar/MyAspNetApp/bin/Release/net8.0/publish/appsettings.json
+/Users/naveenkumar/MyAspNetApp/bin/Release/net8.0/publish/MyAspNetApp.dll
+/Users/naveenkumar/MyAspNetApp/bin/Release/net8.0/publish/MyAspNetApp.deps.json
+/Users/naveenkumar/MyAspNetApp/bin/Release/net8.0/publish/MyAspNetApp.runtimeconfig.json
+/Users/naveenkumar/MyAspNetApp/bin/Release/net8.0/publish/MyAspNetApp.pdb
